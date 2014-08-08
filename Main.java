@@ -7,8 +7,7 @@ public static void main(String[] args){
 	int a=0, count = 0;
 	int b = 1;
 	
-	while(count<num){
-		
+	while(count<num){		
 		System.out.println(a);
 		System.out.println(b);
 		a = b;
